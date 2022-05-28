@@ -1,0 +1,9 @@
+numpy
+pandas
+matplotlib
+opencv-python
+sklearn
+torch
+torchvision
+onnx
+onnxruntime
