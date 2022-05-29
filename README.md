@@ -121,7 +121,7 @@ else:
 
 ### <a name="class"></a>Classification
 
-As for the arithmetic operators we will use the Sign Language MNIST dataset where we can find almost all the existing characters in the alphabet in sign language, we have decided that the letters that work best will be mapped to the arithmetic operators.
+As for the arithmetic operators we will use the [Sign Language MNIST](https://www.kaggle.com/datamunge/sign-language-mnist) dataset where we can find almost all the existing characters in the alphabet in sign language, we have decided that the letters that work best will be mapped to the arithmetic operators.
 
 A Convolutional Neural Network (CNN) has been implemented in which its goal will be to produce a model that is able to accept as input a 28x28 image and as output a number that will represent the character or label in question, which then it can be interpreted as a mathematical sign.
 
