@@ -135,7 +135,7 @@ If we train the Neural Network with 12 epochs and validate it, it gives us an ac
 
 #### <a name="cnn"></a>Insufficient data with CNN
 
-At the same time, CNN's results are bad. It is not able to generalize the knowledge obtained from the dataset and as we can see it depends on the position of the hand on the screen he will say one letter or another.
+In real time, CNN's results are bad. It is not able to generalize the knowledge obtained from the dataset and as we can see it depends on the position of the hand on the screen he will say one letter or another.
 This is because the data is insufficient. And since our dataset is always the same hand with the same lighting and the same background, the neural network will not be able to work on other scenarios, as it will never have seen them.
 
 <img src="https://github.com/ggcr/Visual-Calculator/blob/main/imgs/Captura%20de%20pantalla%202022-05-20%20a%20las%2015.55.29.png" alt="drawing" height="200"/>
