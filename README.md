@@ -127,7 +127,11 @@ A Convolutional Neural Network (CNN) has been implemented in which its goal will
 
 If we train the Neural Network with 12 epochs and validate it, it gives us an accuracy of 99.8% on the training set and 96.7% on the test set. Normally, this difference in accuracy between the training set and the test set already indicates a small overfitting on the data.
 
-<img src="https://github.com/ggcr/Visual-Calculator/blob/main/imgs/confussion_mat.png" alt="drawing" height="400"/>
+<figure>
+  <img src="https://github.com/ggcr/Visual-Calculator/blob/main/imgs/confussion_mat.png" alt="drawing" height="400"/>
+  <em>Individual CNN Accuraccy for each character.</em>
+</figure>
+
 
 #### <a name="cnn"></a>Insufficient data with CNN
 
