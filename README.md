@@ -3,7 +3,7 @@ This repo is an explanation of the microProject of the subject of Computer Visio
 
 ![](https://github.com/ggcr/Visual-Calculator/blob/main/imgs/Captura%20de%20pantalla%202022-05-20%20a%20las%2016.01.24.png)
 
-As you can see, when the box is in red the sign is input and in green the number is input.
+As you can see, when the box in red is the sign input and the box in green is the number input.
 
 ## Table of Contents
 - [Objective](#Objective)
